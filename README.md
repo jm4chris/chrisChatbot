@@ -1,5 +1,5 @@
 # chrisChatbot
 
-![image](https://user-images.githubusercontent.com/129046497/227898496-8ffb84a2-d9dc-41fa-bddf-9dc01fd098ec.png)
+![image](https://user-images.githubusercontent.com/129046497/227897310-c02bd01b-4ab2-4c56-9e1e-6cfd2fe94786.jpg)
 {:width="300" height="300"}
 chatBot 페이지 입니다!!!
