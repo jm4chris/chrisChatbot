@@ -6,9 +6,15 @@
     <title>ChatBot Test by Chris</title>
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>    
-  <body>    
-
-  
+  <body>
+    <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="Weatherbot"
+  agent-id="ce0e6bf1-7c45-4fe2-970f-44eb0de31db4"
+  language-code="ko"
+></df-messenger>
+    
     <style>
       df-messenger {
        --df-messenger-bot-message: #D6F7FC;
